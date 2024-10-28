@@ -1,12 +1,14 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+<p align="center">
+  <img src="./images/elephant.webp" alt="Logo" width="300" height="300">
+</p>
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最快捷、最轻量级的个人&团队文档。
+> PostgreSQL-howto in chinese
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 每一篇指南，都是掌握 PostgreSQL 的关键一步
+- 从技巧到最佳实践，让复杂变得简单 
+- 不仅是数据库，更是经验的积累。 
 
-
-[开始使用](/README.md)
+[GitHub](https://github.com/xiongcccc/postgres-howto)
+[Get Started](README.md)
